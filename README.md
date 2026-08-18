@@ -45,6 +45,8 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+
+
 # CLASS DIAGRAM
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
@@ -67,6 +69,7 @@ Create detailed charts that…
 
 <img width="1036" height="729" alt="Screenshot 2026-08-18 133736" src="https://github.com/user-attachments/assets/822b7b8e-ad58-4bf1-b0cd-bac2ee2c7222" />
 
+
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
@@ -80,7 +83,9 @@ Try drawing a sequence diagram to:
 
 
 
+
 <img width="1010" height="839" alt="image" src="https://github.com/user-attachments/assets/c34a3d61-ed49-4302-85a1-65f51f351d2a" />
+
 
 # PACKAGE DIAGRAM:
 
@@ -96,6 +101,8 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 <img width="1244" height="892" alt="Screenshot 2026-08-18 193122" src="https://github.com/user-attachments/assets/661b5012-39b2-422a-8d9c-6cd4c9fba804" />
+
+
 
 # ACTIVITY DIAGRAM:
 
@@ -144,6 +151,9 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
+
+
+
 
 
 
