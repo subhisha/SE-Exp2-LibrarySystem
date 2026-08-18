@@ -104,7 +104,8 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-https://github.com/pranavisanna/LibrarySystem.git
+<img width="1242" height="895" alt="image" src="https://github.com/user-attachments/assets/25141c43-6d80-44b3-8e1a-c037dcd96e69" />
+
 
 
 # SEQUENCE DIAGRAM
