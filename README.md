@@ -1,6 +1,6 @@
 # Library-Management-System
-# Reg No:
-# Name:
+# Reg No: 212225040311
+# Name: Pranavi S
 # Date:
 
 
@@ -28,6 +28,8 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+<img width="1031" height="745" alt="image" src="https://github.com/user-attachments/assets/83531575-9a76-443a-8faa-ff9a3ede4f3a" />
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -59,12 +61,14 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="1036" height="729" alt="WhatsApp Image 2026-08-18 at 19 47 57" src="https://github.com/user-attachments/assets/8c0a6f7a-d3a6-47f9-b245-e60dbc578e33" />
 
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+
 
 
 
@@ -76,6 +80,8 @@ Package diagrams are structural diagrams used to show the organization and arran
 organization of the layered architecture within any UML classifier, such as a software system.
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
+
+<img width="1036" height="729" alt="WhatsApp Image 2026-08-18 at 19 47 57" src="https://github.com/user-attachments/assets/8fcf40de-db5a-40c3-a7ae-70fb6b294747" />
 
 
 
