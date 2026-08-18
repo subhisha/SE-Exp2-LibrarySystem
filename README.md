@@ -29,6 +29,9 @@ UML is the modeling toolkit that you can use to build your diagrams. Use cases a
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
 
+
+
+
 <img width="1051" height="779" alt="Screenshot 2026-08-18 141019" src="https://github.com/user-attachments/assets/5c330872-72b7-498c-bb26-9e820e97cfa8" />
 
 # UML use case diagrams are ideal for:
@@ -59,6 +62,9 @@ Create detailed charts that…
 
 
 
+
+
+
 <img width="1036" height="729" alt="Screenshot 2026-08-18 133736" src="https://github.com/user-attachments/assets/822b7b8e-ad58-4bf1-b0cd-bac2ee2c7222" />
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +73,8 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. 
 Try drawing a sequence diagram to:
+
+
 
 
 
@@ -84,6 +92,9 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+
+
+
 <img width="1244" height="892" alt="Screenshot 2026-08-18 193122" src="https://github.com/user-attachments/assets/661b5012-39b2-422a-8d9c-6cd4c9fba804" />
 
 # ACTIVITY DIAGRAM:
@@ -97,6 +108,9 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+
+
+
 
 
 
