@@ -28,6 +28,9 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
+<img width="1051" height="779" alt="Screenshot 2026-08-18 141019" src="https://github.com/user-attachments/assets/5c330872-72b7-498c-bb26-9e820e97cfa8" />
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -38,11 +41,11 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-<img width="1051" height="779" alt="Screenshot 2026-08-18 141019" src="https://github.com/user-attachments/assets/5ebf3532-c0e7-4920-8dfb-5f00fe69ceb9" />
 
 # CLASS DIAGRAM
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
+
 among software engineers to document software architecture, class diagrams are a type of structure diagram because they describe what must be present in the system being modeled. No matter your level of familiarity with UML or class diagrams, our UML software is designed to be simple and easy to use.
 
 Class diagrams offer a number of bend is for any organization. Use UML class diagrams to:
@@ -69,7 +72,9 @@ Try drawing a sequence diagram to:
 # PACKAGE DIAGRAM:
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
+
 organization of the layered architecture within any UML classifier, such as a software system.
+
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
@@ -91,7 +96,9 @@ Describe the steps performed in a UML use case.
 
 # SEQUENCE DIAGRAM
 
-A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for 
+
+a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
 <img width="1237" height="902" alt="Screenshot 2026-08-18 191834" src="https://github.com/user-attachments/assets/7751aab4-6400-4a1c-b88a-89ff59905cde" />
 
