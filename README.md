@@ -129,9 +129,6 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
-
-
-
 # RESULT
 
 Thus the project to develop Library Management System was developed using Star UML Software is done successfully.
